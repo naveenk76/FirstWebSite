@@ -1,0 +1,59 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.logo {
+    height: 59px;
+}
+
+.banner-img {
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+}
+
+.data {
+    display: flex;
+    padding-right: 9px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.team-img {
+    height: 200px;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bootcamp {
+    padding-right: 9px;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+.footer {
+    background-color: ghostwhite;
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+.footer-list {
+    list-style: none;
+}
+
+.apply {
+    float: right;
+}
+
+.jobs {
+    padding-right: 9px;
+    max-width: 800px;
+    margin: 0 auto;
+}
